@@ -1,0 +1,17 @@
+{
+  "name": "design_pattern",
+  "version": "1.0.0",
+  "description": "Implementation of Strategy, Observer, and Factory design patterns in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": ["design-patterns", "strategy", "observer", "factory"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "@types/jest": "^29.0.0"
+  }
+}
